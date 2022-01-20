@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-classes-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-test-results.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task-build-tmp.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Simple_Tic-Tac-Toe-task.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-A_keyword_to_terminate_the_loop.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Even_or_odd.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Alphabetical_order.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Boxes.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Iterating_over_arrays-Triples.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Cinema.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Fill_the_matrix_by_numbers.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Find_the_corners.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Getting_an_element_from_a_3D_array.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Maximum_element_in_a_matrix.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Printing_lengths_of_nested_arrays.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Reverse_elements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Swap_the_columns.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-The_star_figure.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-The_third_row.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Direction.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Floor-space_of_the_room.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-From_string_to_a_number.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Harry_Potter.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Removing_breaks.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Rewriting_code_using_switch.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Statements.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Statements__1_.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Test_learners.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Simple_Tic-Tac-Toe.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
